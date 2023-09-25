@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "amine",
+      "price": 5484,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Telephone",
+      "price": 4584,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Valise",
+      "price": 5985,
+      "checked": true
+    },
+    {
+      "name": "chez",
+      "price": "785",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "cafe",
+      "price": "9546",
+      "checked": "false",
+      "id": 6
+    },
+    {
+      "name": "cours",
+      "price": "50",
+      "checked": "false",
+      "id": 7
+    },
+    {
+      "name": "dhdj",
+      "price": "50",
+      "checked": "false",
+      "id": 8
+    },
+    {
+      "name": "WEORL",
+      "price": "55",
+      "checked": "false",
+      "id": 9
+    }
+  ]
+}
