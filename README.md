@@ -9,3 +9,4 @@ Welcome to the "Product Management with Angular and JSON Server" repository! Thi
 
 ![image](https://github.com/AmineABK/product-management-with-Angular-and-Json-server/assets/104569983/1f21b389-679e-4c7c-90f9-c370a7258c0d)
 
+![image](https://github.com/AmineABK/product-management-with-Angular-and-Json-server/assets/104569983/0c73698c-ae89-4a09-a299-2389343897fe)
